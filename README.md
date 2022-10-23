@@ -20,4 +20,6 @@ Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático 
 > [BI e Ciência de Dados](https://www.datascienceacademy.com.br/course/design-e-implementacao-de-data-warehouses)  
 > Acessado: 23/10/2022  
 > [Spurious Correlations](https://tylervigen.com/spurious-correlations)  
+> Acessado: 23/10/2022  
+> [Diferença entre o Analista e o Cientista de Dados](https://blog.dsacademy.com.br/qual-a-diferenca-entre-o-analista-de-bi-e-o-cientista-de-dados/)  
 > Acessado: 23/10/2022
