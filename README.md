@@ -17,5 +17,5 @@ Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático 
 > Acessado: 23/10/2022  
 > [BI e Ciência de Dados](https://www.datascienceacademy.com.br/course/design-e-implementacao-de-data-warehouses)  
 > Acessado: 23/10/2022  
-> [Spurious Correlations](https://tylervigen.com/spurious-correlations)
+> [Spurious Correlations](https://tylervigen.com/spurious-correlations)  
 > Acessado: 23/10/2022
