@@ -22,4 +22,6 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 > [Spurious Correlations](https://tylervigen.com/spurious-correlations)  
 > Acessado: 23/10/2022  
 > [Diferença entre o Analista e o Cientista de Dados](https://blog.dsacademy.com.br/qual-a-diferenca-entre-o-analista-de-bi-e-o-cientista-de-dados/)  
+> Acessado: 23/10/2022  
+> [Cultura Data Driven](https://www.csacademy.com.br/cultura-data-driven)  
 > Acessado: 23/10/2022
