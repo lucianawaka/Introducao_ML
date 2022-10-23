@@ -1,9 +1,8 @@
 # Introducão ao Machine Learning
 Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático |
 | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 |
-| Row 2 Column 1 | Row 2 Column 2 |
-| Row 3 Column 1 | Row 3 Column 2 |
+| 1. BI e Ciência de Dados | Row 1 Column 2 |
+| 2. Introdução a Machine Learning | Row 2 Column 2 |
 
 
 
