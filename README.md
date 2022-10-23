@@ -1,4 +1,4 @@
-# Introducão ao Machine Learning Personare
+# Introducão ao Machine Learning
 Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático |
 | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 |
