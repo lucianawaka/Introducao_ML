@@ -1,5 +1,5 @@
 # Introducão à Machine Learning
-Parte 1: Introdução à Machine Learning  | Parte 2: Introdução à Machine Learning | Parte 3: Hands on projeto prático |
+Parte 1: Introdução à Machine Learning  |  Parte 2: Introdução à Machine Learning  |  Parte 3: Hands on projeto prático  |
 | --------------- | --------------- | --------------- |
 | 1. Data Driven | 1. Introdução à Machine Learning  | |
 | 2. BI e Ciência de Dados |  |  |
