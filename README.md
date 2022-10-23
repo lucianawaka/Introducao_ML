@@ -1,11 +1,11 @@
 # Introducão à Machine Learning
-Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático |
-| --------------- | --------------- |
-| 1. BI e Ciência de Dados |  |
-| 2. Profissionais da área de Dados |  |
-| 3. Ferramentas de BI e Ciência de Dados|  |
-| 4. O que preciso para me tornar um Cientista de Dados? | |
-| 5. Introdução à Machine Learning | |
+Parte 1: Introdução à Machine Learning  | Parte 2: Introdução à Machine Learning | Parte 3: Hands on projeto prático |
+| --------------- | --------------- | --------------- |
+| 1. Data Driven | 1. Introdução à Machine Learning  | |
+| 2. BI e Ciência de Dados |  |  |
+| 3. Profissionais da área de Dados |  |  |
+| 4. Ferramentas de BI e Ciência de Dados|  |  |
+| 5. O que preciso para me tornar um Cientista de Dados? | | |
 
 # Colab
 [Parte 1: Introdução à Machine Learning](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
