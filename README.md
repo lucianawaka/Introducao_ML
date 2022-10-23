@@ -8,7 +8,7 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 | 5. O que preciso para me tornar um Cientista de Dados? | | |
 
 # Colab
-[Parte 1: Introdução à Machine Learning](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
+[Parte 1: Business Inteligence e Data Science](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
 
 # Referências
 > [Introdução à Machine Learning UFPR](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)  
