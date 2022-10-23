@@ -11,8 +11,7 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 [Parte 1: Business Inteligence e Data Science](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
 
 # Referências
-> [Introdução à Machine Learning UFPR](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)  
-> Acessado: 23/10/2022  
+ 
 [Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/cursosgratuitos)  
 > Acessado: 23/10/2022  
 [O que é Data Science?](https://www.youtube.com/watch?v=5b9Z8toVaAU)  
@@ -26,4 +25,6 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 > [Cultura Data Driven](https://www.csacademy.com.br/cultura-data-driven)  
 > Acessado: 23/10/2022  
 > [Data Driven: o que é e qual a sua importância?](https://www.sydle.com/br/blog/data-driven-606c8a4e4b136c41e0e2c334/)  
-> Acessado: 23/10/2022
+> Acessado: 23/10/2022  
+> [Introdução à Machine Learning UFPR](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)  
+> Acessado: 23/10/2022 
