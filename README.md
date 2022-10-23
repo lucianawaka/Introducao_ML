@@ -2,8 +2,8 @@
 Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático |
 | --------------- | --------------- |
 | 1. BI e Ciência de Dados | Row 1 Column 2 |
-| 2. Ferramentas de BI e Ciência de Dados | Row 2 Column 2 |
-| 3. Profissionais de Dados | Row 2 Column 2 |
+| 2. Profissionais da área de Dados | Row 2 Column 2 |
+| 3. Ferramentas de BI e Ciência de Dados| Row 2 Column 2 |
 | 4. Introdução a Machine Learning | Row 2 Column 2 |
 
 
