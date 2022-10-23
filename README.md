@@ -9,7 +9,7 @@ Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático 
 # Colab
 [Introdução à Machine Learning](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
 
-### Referências
+# Referências
 > [Introdução à Machine Learning UFPR](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)  
 > Acessado: 23/10/2022  
 [Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/cursosgratuitos)  
