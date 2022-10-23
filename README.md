@@ -3,6 +3,6 @@ Parte 1: Introdução ao Machine Learning
 Parte 2: Hands on projeto prático
 
 Parte 1: Introdução ao Machine Learning | Parte 2: Hands on projeto prático
-:--------- | | -------:
-* BI e Ciência de Dados | Valor 
-* BI e Ciência de Dados | Valor
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
