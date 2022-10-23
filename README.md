@@ -13,5 +13,5 @@ Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático 
 > Acessado: 23/10/2022  
 [Introdução à Ciência de Dados 3.0](https://www.datascienceacademy.com.br/cursosgratuitos)  
 > Acessado: 23/10/2022  
-[O que é Data Science](https://www.youtube.com/watch?v=5b9Z8toVaAU)  
+[O que é Data Science?](https://www.youtube.com/watch?v=5b9Z8toVaAU)  
 > Acessado: 23/10/2022
