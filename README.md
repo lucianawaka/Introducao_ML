@@ -24,4 +24,6 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 > [Diferença entre o Analista e o Cientista de Dados](https://blog.dsacademy.com.br/qual-a-diferenca-entre-o-analista-de-bi-e-o-cientista-de-dados/)  
 > Acessado: 23/10/2022  
 > [Cultura Data Driven](https://www.csacademy.com.br/cultura-data-driven)  
+> Acessado: 23/10/2022  
+> [Data Driven: o que é e qual a sua importância?](https://www.sydle.com/br/blog/data-driven-606c8a4e4b136c41e0e2c334/)  
 > Acessado: 23/10/2022
