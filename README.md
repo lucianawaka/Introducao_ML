@@ -1,7 +1,7 @@
 # Introducão à Machine Learning
 Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machine Learning  |  Parte 3: Hands on projeto prático  |
 | --------------- | --------------- | --------------- |
-| 1. Data Driven | 1. Introdução à Machine Learning  | |
+| 1. Cultura Data Driven | 1. Introdução à Machine Learning  | |
 | 2. BI e Ciência de Dados |  |  |
 | 3. Profissionais da área de Dados |  |  |
 | 4. Ferramentas de BI e Ciência de Dados|  |  |
