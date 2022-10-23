@@ -4,7 +4,7 @@ Parte 1: Introdução à Machine Learning  | Parte 2: Hands on projeto prático 
 | 1. BI e Ciência de Dados |  |
 | 2. Profissionais da área de Dados |  |
 | 3. Ferramentas de BI e Ciência de Dados|  |
-| 4. Introdução a Machine Learning | |
+| 4. Introdução à Machine Learning | |
 
 # Colab
 [Parte 1: Introdução à Machine Learning](https://colab.research.google.com/drive/1-134M9M_x6ibhWHg2XtVanxgR2UVGSJJ#scrollTo=BuM-ndFWXyya)  
