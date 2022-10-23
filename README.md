@@ -3,8 +3,8 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 | --------------- | --------------- | --------------- |
 | 1. Cultura Data Driven | 1. Introdução à Machine Learning  | |
 | 2. BI e Ciência de Dados |  |  |
-| 3. Profissionais da área de Dados |  |  |
-| 4. Ferramentas de BI e Ciência de Dados|  |  |
+| 3. Ferramentas de BI e Ciência de Dados |  |  |
+| 4. Profissionais da área de Dados |  |  |
 | 5. O que preciso para me tornar um Cientista de Dados? | | |
 
 # Colab
@@ -26,8 +26,11 @@ Parte 1: Business Inteligence e Data Science  |  Parte 2: Introdução à Machin
 > Acessado: 23/10/2022  
 > [Data Driven: o que é e qual a sua importância?](https://www.sydle.com/br/blog/data-driven-606c8a4e4b136c41e0e2c334/)  
 > Acessado: 23/10/2022  
-> [Geração Z sente mais sofrimento emocional](https://guiadoestudante.abril.com.br/atualidades/geracao-z-sente-mais-sofrimento-emocional-do-que-as-outras-diz-pesquisa/)  > Acessado: 23/10/2022  
+> [Geração Z sente mais sofrimento emocional](https://guiadoestudante.abril.com.br/atualidades/geracao-z-sente-mais-sofrimento-emocional-do-que-as-outras-diz-pesquisa/)  
+> Acessado: 23/10/2022  
 > [Why Becoming a Data Driven Organization is so hard](https://hbr.org/2022/02/why-becoming-a-data-driven-organization-is-so-hard)  
-> Acessado: 23/10/2022
+> Acessado: 23/10/2022  
+> [Profissionais da área de dados](https://www.letscode.com.br/blog/qual-a-diferenca-de-analista-cientista-e-engenheiro-de-dados)  
+> Acessado: 23/10/2022  
 > [Introdução à Machine Learning UFPR](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)  
 > Acessado: 23/10/2022 
